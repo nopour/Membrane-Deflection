@@ -1,8 +1,6 @@
 # Membrane-Deflection
 Deflections of an elastic membrane (Finite Element Method)
 
-
-![Picture1](https://github.com/user-attachments/assets/b33598d5-edbd-4073-87e6-382e7de31e05)
 ![image](https://github.com/user-attachments/assets/07fce7b3-7e87-4dd6-954c-b9fcef773531)
 
 > [!NOTE]
